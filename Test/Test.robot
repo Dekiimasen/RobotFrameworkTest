@@ -17,8 +17,8 @@ ${AddListButton}  //button[@ng-click='home.list && home.add()']
 ${DeleteVariable5}  //body/ng-view[1]/div[1]/div[3]/div[1]/ul[1]/li[5]/div[1]/div[2]/button[1]
 #Editable Variables
 
-${Username}   Dekiimasen
-${Password}   R@pt0rJsus10121999
+${Username}   
+${Password}   
 ${Variable1}  a
 ${Variable2}  b
 ${Variable3}  c
